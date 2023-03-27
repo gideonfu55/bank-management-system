@@ -1,0 +1,39 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "albus",
+        "Albus",
+        "bakerstree",
+        "bakerstreetandwatson",
+        "breakingbadmademerich",
+        "breakingbadtime",
+        "Buffay",
+        "Chequing",
+        "graceshelby",
+        "Icandothisallday",
+        "ikillformykid",
+        "ikillformyself",
+        "iloveyouthreek",
+        "iluvpatrickjane",
+        "IRONMAN",
+        "iwanttogetout",
+        "kingofthenorth",
+        "michaelscottiswho",
+        "nomoregwen",
+        "notimetodie",
+        "phoebebuffayloves",
+        "Pinkman",
+        "sherbetlemonislife",
+        "standbeyond",
+        "supernaturalboy",
+        "theforceisreal",
+        "thomass",
+        "thomassheby",
+        "thomasshelby",
+        "Wulfric"
+    ]
+}
